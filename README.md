@@ -6,4 +6,4 @@ github features
 [] task Item 1
 
 
-happy codin: smile:
+Happy coding :smile:
